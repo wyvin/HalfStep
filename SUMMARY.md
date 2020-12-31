@@ -1,16 +1,18 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 
-### Go
-* [Notes](golang/notes.md)
+## Go
 
-### Mysql
+* [Notes](go/notes.md)
 
-### Cache
-* [Redis]()
-* [Memcached]()
+## Cache
 
-### Docs
-* [GitBook]()
-  * [bookjson](gitbook/bookjson.md)
+* [Redis](cache/redis.md)
+* [Memcached](cache/memcached.md)
+
+## Docs
+
+* [GitBook](docs/gitbook/README.md)
+  * [bookjson](docs/gitbook/bookjson.md)
+

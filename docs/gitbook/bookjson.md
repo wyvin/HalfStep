@@ -1,6 +1,6 @@
-# book.json
+# bookjson
 
-```json
+```javascript
 {
     "title": "wyvin's book",    // 标题
     "author": "wyvin",          // 作者
@@ -22,5 +22,5 @@
         }
     }
 }
-
 ```
+
